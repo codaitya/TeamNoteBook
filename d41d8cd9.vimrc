@@ -33,7 +33,7 @@ map <F11> :cn<CR>
 
 set t_Co=256 "sets 16 colors in terminal used for colorscheme change
 
-au BufNewFile *.cpp 0r /home/lenovo/cpp.template "template
+au BufNewFile *.cpp 0r ~/cpp.template "template
 
 
 "not used
